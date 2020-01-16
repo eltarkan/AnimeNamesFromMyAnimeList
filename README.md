@@ -1,4 +1,4 @@
 # Anime Names From MyAnimeList
-DAY III </br>
+I HATE ANIMES </br>
 How to be WebScraper? </br>
 I wrote this using NodeJS
